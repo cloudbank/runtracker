@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">RunTracker</string>
+    <string name="started">Started:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="elapsed_time">Elapsed Time:</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="gps_enabled">GPS Enabled</string>
+    <string name="gps_disabled">GPS Disabled</string>
+    <string name="new_run">New Run</string>
+    <string name="title_activity_run_list">Run List</string>
+    <string name="map">Map</string>
+    <string name="run_start">Run Start %s</string>
+    <string name="run_started_at_format">Run started at %s</string>
+    <string name="run_finish">Run Finish %s</string>
+    <string name="run_finished_at_format">Finished on: %1$s </string>
+
+</resources>
